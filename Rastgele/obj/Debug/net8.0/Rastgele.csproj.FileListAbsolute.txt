@@ -1,0 +1,14 @@
+/Users/mervecavusoglu/Desktop/C#/Rastgele/bin/Debug/net8.0/Rastgele
+/Users/mervecavusoglu/Desktop/C#/Rastgele/bin/Debug/net8.0/Rastgele.deps.json
+/Users/mervecavusoglu/Desktop/C#/Rastgele/bin/Debug/net8.0/Rastgele.runtimeconfig.json
+/Users/mervecavusoglu/Desktop/C#/Rastgele/bin/Debug/net8.0/Rastgele.dll
+/Users/mervecavusoglu/Desktop/C#/Rastgele/bin/Debug/net8.0/Rastgele.pdb
+/Users/mervecavusoglu/Desktop/C#/Rastgele/obj/Debug/net8.0/Rastgele.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mervecavusoglu/Desktop/C#/Rastgele/obj/Debug/net8.0/Rastgele.AssemblyInfoInputs.cache
+/Users/mervecavusoglu/Desktop/C#/Rastgele/obj/Debug/net8.0/Rastgele.AssemblyInfo.cs
+/Users/mervecavusoglu/Desktop/C#/Rastgele/obj/Debug/net8.0/Rastgele.csproj.CoreCompileInputs.cache
+/Users/mervecavusoglu/Desktop/C#/Rastgele/obj/Debug/net8.0/Rastgele.dll
+/Users/mervecavusoglu/Desktop/C#/Rastgele/obj/Debug/net8.0/refint/Rastgele.dll
+/Users/mervecavusoglu/Desktop/C#/Rastgele/obj/Debug/net8.0/Rastgele.pdb
+/Users/mervecavusoglu/Desktop/C#/Rastgele/obj/Debug/net8.0/Rastgele.genruntimeconfig.cache
+/Users/mervecavusoglu/Desktop/C#/Rastgele/obj/Debug/net8.0/ref/Rastgele.dll

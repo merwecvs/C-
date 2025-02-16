@@ -1,0 +1,14 @@
+/Users/mervecavusoglu/Desktop/C#/Ortalama/bin/Debug/net8.0/Ortalama
+/Users/mervecavusoglu/Desktop/C#/Ortalama/bin/Debug/net8.0/Ortalama.deps.json
+/Users/mervecavusoglu/Desktop/C#/Ortalama/bin/Debug/net8.0/Ortalama.runtimeconfig.json
+/Users/mervecavusoglu/Desktop/C#/Ortalama/bin/Debug/net8.0/Ortalama.dll
+/Users/mervecavusoglu/Desktop/C#/Ortalama/bin/Debug/net8.0/Ortalama.pdb
+/Users/mervecavusoglu/Desktop/C#/Ortalama/obj/Debug/net8.0/Ortalama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mervecavusoglu/Desktop/C#/Ortalama/obj/Debug/net8.0/Ortalama.AssemblyInfoInputs.cache
+/Users/mervecavusoglu/Desktop/C#/Ortalama/obj/Debug/net8.0/Ortalama.AssemblyInfo.cs
+/Users/mervecavusoglu/Desktop/C#/Ortalama/obj/Debug/net8.0/Ortalama.csproj.CoreCompileInputs.cache
+/Users/mervecavusoglu/Desktop/C#/Ortalama/obj/Debug/net8.0/Ortalama.dll
+/Users/mervecavusoglu/Desktop/C#/Ortalama/obj/Debug/net8.0/refint/Ortalama.dll
+/Users/mervecavusoglu/Desktop/C#/Ortalama/obj/Debug/net8.0/Ortalama.pdb
+/Users/mervecavusoglu/Desktop/C#/Ortalama/obj/Debug/net8.0/Ortalama.genruntimeconfig.cache
+/Users/mervecavusoglu/Desktop/C#/Ortalama/obj/Debug/net8.0/ref/Ortalama.dll

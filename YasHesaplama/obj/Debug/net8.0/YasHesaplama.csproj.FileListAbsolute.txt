@@ -1,0 +1,14 @@
+/Users/mervecavusoglu/Desktop/C#/YasHesaplama/bin/Debug/net8.0/YasHesaplama
+/Users/mervecavusoglu/Desktop/C#/YasHesaplama/bin/Debug/net8.0/YasHesaplama.deps.json
+/Users/mervecavusoglu/Desktop/C#/YasHesaplama/bin/Debug/net8.0/YasHesaplama.runtimeconfig.json
+/Users/mervecavusoglu/Desktop/C#/YasHesaplama/bin/Debug/net8.0/YasHesaplama.dll
+/Users/mervecavusoglu/Desktop/C#/YasHesaplama/bin/Debug/net8.0/YasHesaplama.pdb
+/Users/mervecavusoglu/Desktop/C#/YasHesaplama/obj/Debug/net8.0/YasHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mervecavusoglu/Desktop/C#/YasHesaplama/obj/Debug/net8.0/YasHesaplama.AssemblyInfoInputs.cache
+/Users/mervecavusoglu/Desktop/C#/YasHesaplama/obj/Debug/net8.0/YasHesaplama.AssemblyInfo.cs
+/Users/mervecavusoglu/Desktop/C#/YasHesaplama/obj/Debug/net8.0/YasHesaplama.csproj.CoreCompileInputs.cache
+/Users/mervecavusoglu/Desktop/C#/YasHesaplama/obj/Debug/net8.0/YasHesaplama.dll
+/Users/mervecavusoglu/Desktop/C#/YasHesaplama/obj/Debug/net8.0/refint/YasHesaplama.dll
+/Users/mervecavusoglu/Desktop/C#/YasHesaplama/obj/Debug/net8.0/YasHesaplama.pdb
+/Users/mervecavusoglu/Desktop/C#/YasHesaplama/obj/Debug/net8.0/YasHesaplama.genruntimeconfig.cache
+/Users/mervecavusoglu/Desktop/C#/YasHesaplama/obj/Debug/net8.0/ref/YasHesaplama.dll

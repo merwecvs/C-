@@ -1,0 +1,14 @@
+/Users/mervecavusoglu/Desktop/C#/HesapMakinesi/bin/Debug/net8.0/HesapMakinesi
+/Users/mervecavusoglu/Desktop/C#/HesapMakinesi/bin/Debug/net8.0/HesapMakinesi.deps.json
+/Users/mervecavusoglu/Desktop/C#/HesapMakinesi/bin/Debug/net8.0/HesapMakinesi.runtimeconfig.json
+/Users/mervecavusoglu/Desktop/C#/HesapMakinesi/bin/Debug/net8.0/HesapMakinesi.dll
+/Users/mervecavusoglu/Desktop/C#/HesapMakinesi/bin/Debug/net8.0/HesapMakinesi.pdb
+/Users/mervecavusoglu/Desktop/C#/HesapMakinesi/obj/Debug/net8.0/HesapMakinesi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mervecavusoglu/Desktop/C#/HesapMakinesi/obj/Debug/net8.0/HesapMakinesi.AssemblyInfoInputs.cache
+/Users/mervecavusoglu/Desktop/C#/HesapMakinesi/obj/Debug/net8.0/HesapMakinesi.AssemblyInfo.cs
+/Users/mervecavusoglu/Desktop/C#/HesapMakinesi/obj/Debug/net8.0/HesapMakinesi.csproj.CoreCompileInputs.cache
+/Users/mervecavusoglu/Desktop/C#/HesapMakinesi/obj/Debug/net8.0/HesapMakinesi.dll
+/Users/mervecavusoglu/Desktop/C#/HesapMakinesi/obj/Debug/net8.0/refint/HesapMakinesi.dll
+/Users/mervecavusoglu/Desktop/C#/HesapMakinesi/obj/Debug/net8.0/HesapMakinesi.pdb
+/Users/mervecavusoglu/Desktop/C#/HesapMakinesi/obj/Debug/net8.0/HesapMakinesi.genruntimeconfig.cache
+/Users/mervecavusoglu/Desktop/C#/HesapMakinesi/obj/Debug/net8.0/ref/HesapMakinesi.dll

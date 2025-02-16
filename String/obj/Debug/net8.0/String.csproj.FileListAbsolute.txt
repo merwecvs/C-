@@ -1,0 +1,14 @@
+/Users/mervecavusoglu/Desktop/C#/String/bin/Debug/net8.0/String
+/Users/mervecavusoglu/Desktop/C#/String/bin/Debug/net8.0/String.deps.json
+/Users/mervecavusoglu/Desktop/C#/String/bin/Debug/net8.0/String.runtimeconfig.json
+/Users/mervecavusoglu/Desktop/C#/String/bin/Debug/net8.0/String.dll
+/Users/mervecavusoglu/Desktop/C#/String/bin/Debug/net8.0/String.pdb
+/Users/mervecavusoglu/Desktop/C#/String/obj/Debug/net8.0/String.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mervecavusoglu/Desktop/C#/String/obj/Debug/net8.0/String.AssemblyInfoInputs.cache
+/Users/mervecavusoglu/Desktop/C#/String/obj/Debug/net8.0/String.AssemblyInfo.cs
+/Users/mervecavusoglu/Desktop/C#/String/obj/Debug/net8.0/String.csproj.CoreCompileInputs.cache
+/Users/mervecavusoglu/Desktop/C#/String/obj/Debug/net8.0/String.dll
+/Users/mervecavusoglu/Desktop/C#/String/obj/Debug/net8.0/refint/String.dll
+/Users/mervecavusoglu/Desktop/C#/String/obj/Debug/net8.0/String.pdb
+/Users/mervecavusoglu/Desktop/C#/String/obj/Debug/net8.0/String.genruntimeconfig.cache
+/Users/mervecavusoglu/Desktop/C#/String/obj/Debug/net8.0/ref/String.dll

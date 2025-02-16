@@ -1,0 +1,14 @@
+/Users/mervecavusoglu/Desktop/C#/FirstProject/bin/Debug/net8.0/FirstProject
+/Users/mervecavusoglu/Desktop/C#/FirstProject/bin/Debug/net8.0/FirstProject.deps.json
+/Users/mervecavusoglu/Desktop/C#/FirstProject/bin/Debug/net8.0/FirstProject.runtimeconfig.json
+/Users/mervecavusoglu/Desktop/C#/FirstProject/bin/Debug/net8.0/FirstProject.dll
+/Users/mervecavusoglu/Desktop/C#/FirstProject/bin/Debug/net8.0/FirstProject.pdb
+/Users/mervecavusoglu/Desktop/C#/FirstProject/obj/Debug/net8.0/FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mervecavusoglu/Desktop/C#/FirstProject/obj/Debug/net8.0/FirstProject.AssemblyInfoInputs.cache
+/Users/mervecavusoglu/Desktop/C#/FirstProject/obj/Debug/net8.0/FirstProject.AssemblyInfo.cs
+/Users/mervecavusoglu/Desktop/C#/FirstProject/obj/Debug/net8.0/FirstProject.csproj.CoreCompileInputs.cache
+/Users/mervecavusoglu/Desktop/C#/FirstProject/obj/Debug/net8.0/FirstProject.dll
+/Users/mervecavusoglu/Desktop/C#/FirstProject/obj/Debug/net8.0/refint/FirstProject.dll
+/Users/mervecavusoglu/Desktop/C#/FirstProject/obj/Debug/net8.0/FirstProject.pdb
+/Users/mervecavusoglu/Desktop/C#/FirstProject/obj/Debug/net8.0/FirstProject.genruntimeconfig.cache
+/Users/mervecavusoglu/Desktop/C#/FirstProject/obj/Debug/net8.0/ref/FirstProject.dll
