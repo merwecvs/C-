@@ -1,0 +1,17 @@
+@model SotaApp.Data.Urun
+<form asp-controller="Urun" asp-action="Edit" method="post">
+    <input type="hidden" asp-for="UrunId">
+    <div>
+        <label asp-for="UrunAdi" class="form-label"></label>
+        <input asp-for="UrunAdi" class="form-control">
+    </div>
+    <div>
+        <label asp-for="Stok" class="form-label"></label>
+        <input asp-for="Stok" class="form-control">
+    </div>
+    <div>
+        <label asp-for="Fiyat" class="form-label"></label>
+        <input asp-for="Fiyat" class="form-control">
+    </div>
+    <button class="btn btn-primary" type="submit">Kaydet</button>
+</form>

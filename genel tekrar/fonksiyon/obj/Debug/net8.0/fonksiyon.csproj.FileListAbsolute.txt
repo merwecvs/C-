@@ -1,0 +1,15 @@
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/fonksiyon/obj/Debug/net8.0/fonksiyon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/fonksiyon/obj/Debug/net8.0/fonksiyon.AssemblyInfoInputs.cache
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/fonksiyon/obj/Debug/net8.0/fonksiyon.AssemblyInfo.cs
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/fonksiyon/obj/Debug/net8.0/fonksiyon.csproj.CoreCompileInputs.cache
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/fonksiyon/obj/Debug/net8.0/fonksiyon.sourcelink.json
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/fonksiyon/bin/Debug/net8.0/fonksiyon
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/fonksiyon/bin/Debug/net8.0/fonksiyon.deps.json
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/fonksiyon/bin/Debug/net8.0/fonksiyon.runtimeconfig.json
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/fonksiyon/bin/Debug/net8.0/fonksiyon.dll
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/fonksiyon/bin/Debug/net8.0/fonksiyon.pdb
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/fonksiyon/obj/Debug/net8.0/fonksiyon.dll
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/fonksiyon/obj/Debug/net8.0/refint/fonksiyon.dll
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/fonksiyon/obj/Debug/net8.0/fonksiyon.pdb
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/fonksiyon/obj/Debug/net8.0/fonksiyon.genruntimeconfig.cache
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/fonksiyon/obj/Debug/net8.0/ref/fonksiyon.dll

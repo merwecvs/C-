@@ -1,0 +1,10 @@
+@model SotaApp.Data.Urun
+<p>
+    <b>
+        @Model.UrunAdi</b> adlı ürünü silmek istediğinize emin misiniz?
+        <form asp-action="Delete" method="post">
+            <input type="hidden" asp-asp-for="@Model.UrunId">
+            <button type="submit" class="btn btn-danger">Evet</button>
+            <a asp-action="Index" class="btn btn-primary">Hayır</a>
+        </form>
+</p>

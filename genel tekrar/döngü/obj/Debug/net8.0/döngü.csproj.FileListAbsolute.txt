@@ -1,0 +1,11 @@
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/döngü/bin/Debug/net8.0/döngü
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/döngü/bin/Debug/net8.0/döngü.dll
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/döngü/bin/Debug/net8.0/döngü.pdb
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/döngü/obj/Debug/net8.0/döngü.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/döngü/obj/Debug/net8.0/döngü.AssemblyInfoInputs.cache
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/döngü/obj/Debug/net8.0/döngü.AssemblyInfo.cs
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/döngü/obj/Debug/net8.0/döngü.csproj.CoreCompileInputs.cache
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/döngü/obj/Debug/net8.0/döngü.sourcelink.json
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/döngü/obj/Debug/net8.0/döngü.dll
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/döngü/obj/Debug/net8.0/refint/döngü.dll
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/döngü/obj/Debug/net8.0/döngü.pdb

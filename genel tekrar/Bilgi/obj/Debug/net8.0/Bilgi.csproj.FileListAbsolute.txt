@@ -1,0 +1,15 @@
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Bilgi/bin/Debug/net8.0/Bilgi
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Bilgi/bin/Debug/net8.0/Bilgi.deps.json
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Bilgi/bin/Debug/net8.0/Bilgi.runtimeconfig.json
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Bilgi/bin/Debug/net8.0/Bilgi.dll
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Bilgi/bin/Debug/net8.0/Bilgi.pdb
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Bilgi/obj/Debug/net8.0/Bilgi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Bilgi/obj/Debug/net8.0/Bilgi.AssemblyInfoInputs.cache
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Bilgi/obj/Debug/net8.0/Bilgi.AssemblyInfo.cs
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Bilgi/obj/Debug/net8.0/Bilgi.csproj.CoreCompileInputs.cache
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Bilgi/obj/Debug/net8.0/Bilgi.sourcelink.json
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Bilgi/obj/Debug/net8.0/Bilgi.dll
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Bilgi/obj/Debug/net8.0/refint/Bilgi.dll
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Bilgi/obj/Debug/net8.0/Bilgi.pdb
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Bilgi/obj/Debug/net8.0/Bilgi.genruntimeconfig.cache
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Bilgi/obj/Debug/net8.0/ref/Bilgi.dll

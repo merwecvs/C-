@@ -1,0 +1,15 @@
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Sayı/bin/Debug/net8.0/Sayı
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Sayı/bin/Debug/net8.0/Sayı.deps.json
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Sayı/bin/Debug/net8.0/Sayı.runtimeconfig.json
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Sayı/bin/Debug/net8.0/Sayı.dll
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Sayı/bin/Debug/net8.0/Sayı.pdb
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Sayı/obj/Debug/net8.0/Sayı.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Sayı/obj/Debug/net8.0/Sayı.AssemblyInfoInputs.cache
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Sayı/obj/Debug/net8.0/Sayı.AssemblyInfo.cs
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Sayı/obj/Debug/net8.0/Sayı.csproj.CoreCompileInputs.cache
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Sayı/obj/Debug/net8.0/Sayı.sourcelink.json
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Sayı/obj/Debug/net8.0/Sayı.dll
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Sayı/obj/Debug/net8.0/refint/Sayı.dll
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Sayı/obj/Debug/net8.0/Sayı.pdb
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Sayı/obj/Debug/net8.0/Sayı.genruntimeconfig.cache
+/Users/mervecavusoglu/Desktop/C#/genel tekrar/Sayı/obj/Debug/net8.0/ref/Sayı.dll

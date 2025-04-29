@@ -1,0 +1,15 @@
+/Users/mervecavusoglu/Desktop/C#/4.hafta/OgrenciListe/bin/Debug/net8.0/OgrenciListe
+/Users/mervecavusoglu/Desktop/C#/4.hafta/OgrenciListe/bin/Debug/net8.0/OgrenciListe.deps.json
+/Users/mervecavusoglu/Desktop/C#/4.hafta/OgrenciListe/bin/Debug/net8.0/OgrenciListe.runtimeconfig.json
+/Users/mervecavusoglu/Desktop/C#/4.hafta/OgrenciListe/bin/Debug/net8.0/OgrenciListe.dll
+/Users/mervecavusoglu/Desktop/C#/4.hafta/OgrenciListe/bin/Debug/net8.0/OgrenciListe.pdb
+/Users/mervecavusoglu/Desktop/C#/4.hafta/OgrenciListe/obj/Debug/net8.0/OgrenciListe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mervecavusoglu/Desktop/C#/4.hafta/OgrenciListe/obj/Debug/net8.0/OgrenciListe.AssemblyInfoInputs.cache
+/Users/mervecavusoglu/Desktop/C#/4.hafta/OgrenciListe/obj/Debug/net8.0/OgrenciListe.AssemblyInfo.cs
+/Users/mervecavusoglu/Desktop/C#/4.hafta/OgrenciListe/obj/Debug/net8.0/OgrenciListe.csproj.CoreCompileInputs.cache
+/Users/mervecavusoglu/Desktop/C#/4.hafta/OgrenciListe/obj/Debug/net8.0/OgrenciListe.sourcelink.json
+/Users/mervecavusoglu/Desktop/C#/4.hafta/OgrenciListe/obj/Debug/net8.0/OgrenciListe.dll
+/Users/mervecavusoglu/Desktop/C#/4.hafta/OgrenciListe/obj/Debug/net8.0/refint/OgrenciListe.dll
+/Users/mervecavusoglu/Desktop/C#/4.hafta/OgrenciListe/obj/Debug/net8.0/OgrenciListe.pdb
+/Users/mervecavusoglu/Desktop/C#/4.hafta/OgrenciListe/obj/Debug/net8.0/OgrenciListe.genruntimeconfig.cache
+/Users/mervecavusoglu/Desktop/C#/4.hafta/OgrenciListe/obj/Debug/net8.0/ref/OgrenciListe.dll

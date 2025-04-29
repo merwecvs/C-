@@ -1,0 +1,15 @@
+/Users/mervecavusoglu/Desktop/C#/4.hafta/Logger/obj/Debug/net8.0/Logger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mervecavusoglu/Desktop/C#/4.hafta/Logger/obj/Debug/net8.0/Logger.AssemblyInfoInputs.cache
+/Users/mervecavusoglu/Desktop/C#/4.hafta/Logger/obj/Debug/net8.0/Logger.AssemblyInfo.cs
+/Users/mervecavusoglu/Desktop/C#/4.hafta/Logger/obj/Debug/net8.0/Logger.csproj.CoreCompileInputs.cache
+/Users/mervecavusoglu/Desktop/C#/4.hafta/Logger/obj/Debug/net8.0/Logger.sourcelink.json
+/Users/mervecavusoglu/Desktop/C#/4.hafta/Logger/bin/Debug/net8.0/Logger
+/Users/mervecavusoglu/Desktop/C#/4.hafta/Logger/bin/Debug/net8.0/Logger.deps.json
+/Users/mervecavusoglu/Desktop/C#/4.hafta/Logger/bin/Debug/net8.0/Logger.runtimeconfig.json
+/Users/mervecavusoglu/Desktop/C#/4.hafta/Logger/bin/Debug/net8.0/Logger.dll
+/Users/mervecavusoglu/Desktop/C#/4.hafta/Logger/bin/Debug/net8.0/Logger.pdb
+/Users/mervecavusoglu/Desktop/C#/4.hafta/Logger/obj/Debug/net8.0/Logger.dll
+/Users/mervecavusoglu/Desktop/C#/4.hafta/Logger/obj/Debug/net8.0/refint/Logger.dll
+/Users/mervecavusoglu/Desktop/C#/4.hafta/Logger/obj/Debug/net8.0/Logger.pdb
+/Users/mervecavusoglu/Desktop/C#/4.hafta/Logger/obj/Debug/net8.0/Logger.genruntimeconfig.cache
+/Users/mervecavusoglu/Desktop/C#/4.hafta/Logger/obj/Debug/net8.0/ref/Logger.dll

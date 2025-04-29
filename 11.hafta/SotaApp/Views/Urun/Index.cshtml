@@ -1,0 +1,27 @@
+@model IEnumerable<SotaApp.Data.Urun>
+<a asp-controller="Urun" asp-action="Create" class="btn btn-primary">Ürün Ekle</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(m => m.UrunId)</th>
+            <th>@Html.DisplayNameFor(m => m.UrunAdi)</th>
+            <th>@Html.DisplayNameFor(m => m.Stok)</th>
+            <th>@Html.DisplayNameFor(m => m.Fiyat)</th>
+            <th class="">Ayarlar</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model){
+            <tr>
+                <td>@Html.DisplayFor(modelItem =>item.UrunId)</td>
+                <td>@Html.DisplayFor(modelItem =>item.UrunAdi)</td>
+                <td>@Html.DisplayFor(modelItem =>item.Stok)</td>
+                <td>@Html.DisplayFor(modelItem =>item.Fiyat)</td>
+                <td>
+                    <a asp-controller="Urun" asp-action="Edit" asp-route-id="@item.UrunId" class="btn btn-warning">Edit</a>
+                    <a asp-controller="Urun" asp-action="Delete" asp-route-id="@item.UrunId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
