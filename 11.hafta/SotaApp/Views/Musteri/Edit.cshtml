@@ -1,0 +1,41 @@
+@model SotaApp.Data.Musteri
+<h2>Müşteri Güncelle</h2>
+<hr>
+<div class="row">
+    <div class="col-8">
+        <form asp-controller="Musteri" asp-action="Edit" method="post">
+        <input type="hidden" asp-for="MusteriId">
+        <div class="mb-3">
+            <label asp-for="MusteriAdi" class="form-label"></label>
+            <input asp-for="MusteriAdi" class="form-control">
+        </div>
+        <div class="mb-3">
+            <label asp-for="MusteriSoyad" class="form-label"></label>
+            <input asp-for="MusteriSoyad" class="form-control">
+        </div>
+        <div class="mb-3">
+            <label asp-for="Mail" class="form-label"></label>
+            <input asp-for="Mail" class="form-control">
+        </div>
+        <div class="mb-3">
+            <label asp-for="Telefon" class="form-label"></label>
+            <input asp-for="Telefon" class="form-control">
+        </div>
+        <button class="btn btn-primary" type="submit">Kaydet</button>
+        </form>
+    </div>
+
+    <div class="col-4">
+        <h4>Ürünler</h4>
+        <hr>
+        <ul>
+            @foreach(var item in Model .Satis){
+                <li>@item.Urun.UrunAdi </li>
+            }
+        </ul>
+    </div>
+
+</div>
+
+
+

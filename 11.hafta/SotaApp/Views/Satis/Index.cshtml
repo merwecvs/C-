@@ -1,0 +1,26 @@
+@model IEnumerable<SotaApp.Data.Satis>
+<h2>Satış Listesi</h2>
+<a asp-controller="Satis" asp-action="Create" class="btn btn-sm btn-primary">Satış Ekle</a>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th style="width: 100px;">@Html.DisplayNameFor(m => m.SatisId)</th>
+            <th style="width: 300px;">@Html.DisplayNameFor(m => m.Musteri.AdSoyad)</th>
+            <th style="width: 300px;">@Html.DisplayNameFor(m => m.Urun.UrunAdi)</th>
+            <th style="width: 100px;">Ayarlar</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model){
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.SatisId)</td>
+                <td>@Html.DisplayFor(modelItem => item.Musteri.AdSoyad)</td>
+                <td>@Html.DisplayFor(modelItem => item.Urun.UrunAdi)</td>
+                <td>
+                    <a asp-controller="Satis" asp-action="Edit" asp-route-id="@item.SatisId" class="btn btn-warning">Edit</a>
+                    <a asp-controller="Satis" asp-action="Delete" asp-route-id="@item.SatisId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

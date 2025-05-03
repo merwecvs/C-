@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SotaApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e546ee1d5d4e1e2bc332f6efc9cd2af089d9811f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42d48f770121a56cca04ccee9776bd61ba92000e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SotaApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SotaApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

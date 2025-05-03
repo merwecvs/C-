@@ -2,9 +2,9 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using SotaApp.Data;
 namespace SotaApp.Controllers{
-    public class UrunController:Controller{
+    public class MusteriController:Controller{
         private readonly DataContext _context;
-        public UrunController(DataContext context){
+        public MusteriController(DataContext context){
             _context = context;
         }
         [HttpGet]
@@ -12,21 +12,21 @@ namespace SotaApp.Controllers{
             return View();
         }
         [HttpPost]
-        public async Task<IActionResult> Create (Urun model){
-            _context.Urunler.Add(model);
+        public async Task<IActionResult> Create (Musteri model){
+            _context.Musteriler.Add(model);
             await _context.SaveChangesAsync();
             return RedirectToAction ("Index");
         }
         public async Task<IActionResult> Index(){
-            var urunler = await _context.Urunler.ToListAsync();
-            return View(urunler);
+            var Musteriler = await _context.Musteriler.ToListAsync();
+            return View(Musteriler);
         }
         [HttpGet]
         public async Task<IActionResult> Edit(int? id){
             if(id==null){
                 return NotFound();
             }
-            var urn = await _context.Urunler.Include(x=>x.Satis ).ThenInclude(x=>x.Musteri ).FirstOrDefaultAsync(Urun=> Urun.UrunId == id);
+            var urn = await _context.Musteriler.Include(x=>x.Satis ).ThenInclude(x=>x.Urun ).FirstOrDefaultAsync(Musteri=> Musteri.MusteriId == id);
             if(urn==null){
                 return NotFound();
             }
@@ -34,8 +34,8 @@ namespace SotaApp.Controllers{
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult>Edit(int id, Urun model){
-            if(id !=model.UrunId){
+        public async Task<IActionResult>Edit(int id, Musteri model){
+            if(id !=model.MusteriId){
                 return NotFound();
             }
             if(ModelState.IsValid){
@@ -46,7 +46,7 @@ namespace SotaApp.Controllers{
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if(! _context.Urunler.Any(u=>u.UrunId ==model.UrunId)){
+                    if(! _context.Musteriler.Any(u=>u.MusteriId ==model.MusteriId)){
                         return NotFound();
                     }
                     else{
@@ -63,19 +63,19 @@ namespace SotaApp.Controllers{
             if(id==null){
                 return NotFound();
             }
-            var urun = await _context.Urunler.FindAsync(id);
-            if(urun==null){
+            var Musteri = await _context.Musteriler.FindAsync(id);
+            if(Musteri==null){
                 return NotFound();
             }
-            return View(urun);
+            return View(Musteri);
         }
         [HttpPost]
         public async Task<IActionResult>Delete(int id){
-            var urun = await _context.Urunler.FindAsync(id);
-            if(urun==null){
+            var Musteri = await _context.Musteriler.FindAsync(id);
+            if(Musteri==null){
                 return NotFound();
             }
-            _context.Urunler.Remove(urun);
+            _context.Musteriler.Remove(Musteri);
             await _context.SaveChangesAsync();
             return RedirectToAction("Index");
         }

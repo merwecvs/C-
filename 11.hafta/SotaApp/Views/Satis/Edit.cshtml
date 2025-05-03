@@ -1,0 +1,23 @@
+@model SotaApp.Data.Satis
+<h2>Müşteri Güncelle</h2>
+<hr>
+<div class="row">
+    <div class="col-8">
+        <form asp-controller="Musteri" asp-action="Edit" method="post">
+        <input type="hidden" asp-for="MusteriId">
+        <div class="mb-3">
+            <label asp-for="Musteri.AdSoyad" class="form-label"></label>
+            <input asp-for="Musteri.AdSoyad" class="form-control">
+        </div>
+        <div class="mb-3">
+            <label asp-for="Urun.UrunAdi" class="form-label"></label>
+            <input asp-for="Urun.UrunAdi" class="form-control">
+        </div>
+        <button class="btn btn-primary" type="submit">Kaydet</button>
+        </form>
+    </div>
+
+</div>
+
+
+

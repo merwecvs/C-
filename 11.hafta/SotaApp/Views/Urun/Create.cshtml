@@ -1,14 +1,16 @@
 @model SotaApp.Data.Urun
+<h2>Ürün Kaydet</h2>
+<hr>
 <form asp-controller="Urun" asp-action="Create" method="post">
-    <div>
+    <div class="mb-3">
         <label asp-for="UrunAdi" class="form-label"></label>
         <input asp-for="UrunAdi" class="form-control">
     </div>
-    <div>
+    <div class="mb-3">
         <label asp-for="Stok" class="form-label"></label>
         <input asp-for="Stok" class="form-control">
     </div>
-    <div>
+    <div class="mb-3">
         <label asp-for="Fiyat" class="form-label"></label>
         <input asp-for="Fiyat" class="form-control">
     </div>

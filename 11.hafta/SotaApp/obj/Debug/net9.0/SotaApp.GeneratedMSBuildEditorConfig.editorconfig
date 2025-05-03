@@ -36,6 +36,38 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/mervecavusoglu/Desktop/C\#/11.hafta/SotaApp/Views/Musteri/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTXVzdGVyaS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mervecavusoglu/Desktop/C\#/11.hafta/SotaApp/Views/Musteri/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTXVzdGVyaS9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mervecavusoglu/Desktop/C\#/11.hafta/SotaApp/Views/Musteri/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTXVzdGVyaS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mervecavusoglu/Desktop/C\#/11.hafta/SotaApp/Views/Musteri/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTXVzdGVyaS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mervecavusoglu/Desktop/C\#/11.hafta/SotaApp/Views/Satis/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2F0aXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mervecavusoglu/Desktop/C\#/11.hafta/SotaApp/Views/Satis/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2F0aXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mervecavusoglu/Desktop/C\#/11.hafta/SotaApp/Views/Satis/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2F0aXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mervecavusoglu/Desktop/C\#/11.hafta/SotaApp/Views/Satis/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2F0aXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/mervecavusoglu/Desktop/C\#/11.hafta/SotaApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,30 @@
+@model IEnumerable<SotaApp.Data.Musteri>
+<h2>Müşteri Listesi</h2>
+<a asp-controller="Musteri" asp-action="Create" class="btn btn-sm btn-primary">Müşteri Ekle</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(m => m.MusteriId)</th>
+            <th>@Html.DisplayNameFor(m => m.MusteriAdi)</th>
+            <th>@Html.DisplayNameFor(m => m.MusteriSoyad)</th>
+            <th>@Html.DisplayNameFor(m => m.Mail)</th>
+            <th>@Html.DisplayNameFor(m => m.Telefon)</th>
+            <th class="">Ayarlar</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model){
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.MusteriId)</td>
+                <td>@Html.DisplayFor(modelItem => item.MusteriAdi)</td>
+                <td>@Html.DisplayFor(modelItem => item.MusteriSoyad)</td>
+                <td>@Html.DisplayFor(modelItem => item.Mail)</td>
+                <td>@Html.DisplayFor(modelItem => item.Telefon)</td>
+                <td>
+                    <a asp-controller="Musteri" asp-action="Edit" asp-route-id="@item.MusteriId" class="btn btn-warning">Edit</a>
+                    <a asp-controller="Musteri" asp-action="Delete" asp-route-id="@item.MusteriId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
