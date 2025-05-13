@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "7numXZV5CoY=",
+  "dgSpecHash": "ZmUYB5Prc7s=",
   "success": true,
-  "projectFilePath": "/Users/mervecavusoglu/Desktop/C#/HesapMakinesi/HesapMakinesi.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/mervecavusoglu/Desktop/C#/2.hft/HesapMakinesi/HesapMakinesi.csproj",
+  "expectedPackageFiles": [
+    "/Users/mervecavusoglu/.nuget/packages/microsoft.netcore.app.ref/8.0.14/microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "/Users/mervecavusoglu/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.14/microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512",
+    "/Users/mervecavusoglu/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.14/microsoft.netcore.app.host.osx-arm64.8.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
