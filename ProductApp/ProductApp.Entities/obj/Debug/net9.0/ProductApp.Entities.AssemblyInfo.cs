@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SotaApp")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ProductApp.Entities")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+473edf13e2be4a0b903560c6fe0241fb0122b6e1")]
-[assembly: System.Reflection.AssemblyProductAttribute("SotaApp")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SotaApp")]
+[assembly: System.Reflection.AssemblyProductAttribute("ProductApp.Entities")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ProductApp.Entities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
