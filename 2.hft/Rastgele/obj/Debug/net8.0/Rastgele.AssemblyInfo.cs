@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Rastgele")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46f0cf3c550e85c1a83bed57b846342d976d10ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("Rastgele")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Rastgele")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
