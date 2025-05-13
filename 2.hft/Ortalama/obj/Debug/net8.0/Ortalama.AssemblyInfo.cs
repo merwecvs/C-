@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ortalama")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74a73d2677cc274193519ea2f2a9d4b3e3f5487a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ortalama")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ortalama")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
