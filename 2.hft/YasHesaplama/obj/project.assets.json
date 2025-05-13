@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mervecavusoglu/Desktop/C#/YasHesaplama/YasHesaplama.csproj",
+      "projectUniqueName": "/Users/mervecavusoglu/Desktop/C#/2.hft/YasHesaplama/YasHesaplama.csproj",
       "projectName": "YasHesaplama",
-      "projectPath": "/Users/mervecavusoglu/Desktop/C#/YasHesaplama/YasHesaplama.csproj",
+      "projectPath": "/Users/mervecavusoglu/Desktop/C#/2.hft/YasHesaplama/YasHesaplama.csproj",
       "packagesPath": "/Users/mervecavusoglu/.nuget/packages/",
-      "outputPath": "/Users/mervecavusoglu/Desktop/C#/YasHesaplama/obj/",
+      "outputPath": "/Users/mervecavusoglu/Desktop/C#/2.hft/YasHesaplama/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mervecavusoglu/.nuget/NuGet/NuGet.Config"
@@ -43,7 +43,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -59,12 +60,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.14, 8.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[8.0.14, 8.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.14, 8.0.14]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

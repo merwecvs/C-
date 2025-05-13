@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YasHesaplama")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01511d705e538796c349e2a4d26ff76136c06f05")]
 [assembly: System.Reflection.AssemblyProductAttribute("YasHesaplama")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YasHesaplama")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
