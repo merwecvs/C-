@@ -1,0 +1,29 @@
+@{
+    ViewData["Title"] = "Giriş Yap";
+}
+
+<div class="d-flex flex-column justify-content-center align-items-center vh-100">
+    <div class="card p-4 shadow" style="max-width: 400px; width: 100%;">
+        <h2 class="mb-4 text-center">Giriş Yap</h2>
+
+        <form method="post" action="/Home/Login">
+            @Html.AntiForgeryToken() 
+
+            <div class="mb-3">
+                <label for="username" class="form-label">Kullanıcı Adı</label>
+                <input type="text" class="form-control" id="username" name="username" required>
+            </div>
+
+            <div class="mb-3">
+                <label for="password" class="form-label">Şifre</label>
+                <input type="password" class="form-control" id="password" name="password" required>
+            </div>
+
+            <button type="submit" class="btn btn-primary w-100">Giriş Yap</button>
+        </form>
+
+        <div class="text-center mt-3">
+            <a href="/Home/Register">Hesabınız yok mu? Kayıt Ol</a>
+        </div>
+    </div>
+</div>

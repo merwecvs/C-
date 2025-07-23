@@ -1,0 +1,12 @@
+/Users/mervecavusoglu/Desktop/C#/ProductApp/ProductApp.Entities/bin/Debug/net9.0/ProductApp.Entities.deps.json
+/Users/mervecavusoglu/Desktop/C#/ProductApp/ProductApp.Entities/bin/Debug/net9.0/ProductApp.Entities.dll
+/Users/mervecavusoglu/Desktop/C#/ProductApp/ProductApp.Entities/bin/Debug/net9.0/ProductApp.Entities.pdb
+/Users/mervecavusoglu/Desktop/C#/ProductApp/ProductApp.Entities/obj/Debug/net9.0/ProductApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mervecavusoglu/Desktop/C#/ProductApp/ProductApp.Entities/obj/Debug/net9.0/ProductApp.Entities.AssemblyInfoInputs.cache
+/Users/mervecavusoglu/Desktop/C#/ProductApp/ProductApp.Entities/obj/Debug/net9.0/ProductApp.Entities.AssemblyInfo.cs
+/Users/mervecavusoglu/Desktop/C#/ProductApp/ProductApp.Entities/obj/Debug/net9.0/ProductApp.Entities.csproj.CoreCompileInputs.cache
+/Users/mervecavusoglu/Desktop/C#/ProductApp/ProductApp.Entities/obj/Debug/net9.0/ProductApp.Entities.sourcelink.json
+/Users/mervecavusoglu/Desktop/C#/ProductApp/ProductApp.Entities/obj/Debug/net9.0/ProductApp.Entities.dll
+/Users/mervecavusoglu/Desktop/C#/ProductApp/ProductApp.Entities/obj/Debug/net9.0/refint/ProductApp.Entities.dll
+/Users/mervecavusoglu/Desktop/C#/ProductApp/ProductApp.Entities/obj/Debug/net9.0/ProductApp.Entities.pdb
+/Users/mervecavusoglu/Desktop/C#/ProductApp/ProductApp.Entities/obj/Debug/net9.0/ref/ProductApp.Entities.dll

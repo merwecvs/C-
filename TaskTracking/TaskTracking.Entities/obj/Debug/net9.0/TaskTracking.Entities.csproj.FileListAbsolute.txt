@@ -1,0 +1,12 @@
+/Users/mervecavusoglu/Desktop/C#/TaskTracking/TaskTracking.Entities/bin/Debug/net9.0/TaskTracking.Entities.deps.json
+/Users/mervecavusoglu/Desktop/C#/TaskTracking/TaskTracking.Entities/bin/Debug/net9.0/TaskTracking.Entities.dll
+/Users/mervecavusoglu/Desktop/C#/TaskTracking/TaskTracking.Entities/bin/Debug/net9.0/TaskTracking.Entities.pdb
+/Users/mervecavusoglu/Desktop/C#/TaskTracking/TaskTracking.Entities/obj/Debug/net9.0/TaskTracking.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mervecavusoglu/Desktop/C#/TaskTracking/TaskTracking.Entities/obj/Debug/net9.0/TaskTracking.Entities.AssemblyInfoInputs.cache
+/Users/mervecavusoglu/Desktop/C#/TaskTracking/TaskTracking.Entities/obj/Debug/net9.0/TaskTracking.Entities.AssemblyInfo.cs
+/Users/mervecavusoglu/Desktop/C#/TaskTracking/TaskTracking.Entities/obj/Debug/net9.0/TaskTracking.Entities.csproj.CoreCompileInputs.cache
+/Users/mervecavusoglu/Desktop/C#/TaskTracking/TaskTracking.Entities/obj/Debug/net9.0/TaskTracking.Entities.sourcelink.json
+/Users/mervecavusoglu/Desktop/C#/TaskTracking/TaskTracking.Entities/obj/Debug/net9.0/TaskTracking.Entities.dll
+/Users/mervecavusoglu/Desktop/C#/TaskTracking/TaskTracking.Entities/obj/Debug/net9.0/refint/TaskTracking.Entities.dll
+/Users/mervecavusoglu/Desktop/C#/TaskTracking/TaskTracking.Entities/obj/Debug/net9.0/TaskTracking.Entities.pdb
+/Users/mervecavusoglu/Desktop/C#/TaskTracking/TaskTracking.Entities/obj/Debug/net9.0/ref/TaskTracking.Entities.dll

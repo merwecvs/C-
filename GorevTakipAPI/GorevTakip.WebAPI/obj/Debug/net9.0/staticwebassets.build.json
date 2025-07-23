@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "mIuwDz+Nm5FqHFOiZ9FA/v+zUpxZ2J82tilcZNdVJ3E=",
+  "Source": "GorevTakip.WebAPI",
+  "BasePath": "_content/GorevTakip.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GorevTakip.WebAPI/wwwroot",
+      "Source": "GorevTakip.WebAPI",
+      "ContentRoot": "/Users/mervecavusoglu/GorevTakipAPI/GorevTakip.WebAPI/wwwroot/",
+      "BasePath": "_content/GorevTakip.WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
